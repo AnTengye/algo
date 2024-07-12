@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fight_algo/top"
 	"fmt"
 )
 
